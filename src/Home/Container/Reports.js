@@ -2,7 +2,7 @@ import React from 'react';
 
 const Reports = () => {
   const reports = [
-    { title: 'Castration after childbirth', doctor: 'Dr. Kleber Duarte', date: '30/09/2024' },
+    { title: 'Cadastro de vacinação', doctor: 'Dr. Kleber Duarte', date: '30/09/2024' },
   ];
 
   return (
